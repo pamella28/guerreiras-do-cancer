@@ -1,0 +1,23 @@
+body{
+    padding-top: 70px;
+}
+
+.navbar-default {
+    background-color: #ffb3ff;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+/* títulos e paragrafos */
+h2, p{
+    text-align: center;
+}
+
+.rodape{
+    background-color:#ffb3ff; 
+}
+#footer {
+    position: absolute;
+    width: 100%;
+    margin: 0;
+}
